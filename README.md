@@ -1,5 +1,5 @@
 # React-forms 
-## created a controllable form  with below fields and their validation
+## created a controllable form  with below fields including custom  validation
 - input text
 - input number
 - dropdown list
